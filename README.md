@@ -21,11 +21,11 @@ For my level one capstone project I decided to create a personal portfolio that 
 
 ## Wireframe
 
-![wireframe of index.html](/Capstone-Level-1/img/index.jpg)
-![wireframe of about.html](/Capstone-Level-1/img/about.jpg)
-![wireframe of gallery.html](/Capstone-Level-1/img/gallery.jpg)
-![wireframe of blog.html](/Capstone-Level-1/img/blog.jpg)
-![wireframe of resources.html](/Capstone-Level-1/img/resources.jpg)
+![wireframe of index.html](img/index.jpg)
+![wireframe of about.html](img/about.jpg)
+![wireframe of gallery.html](img/gallery.jpg)
+![wireframe of blog.html](img/blog.jpg)
+![wireframe of resources.html](img/resources.jpg)
 
 ## Contact
 
