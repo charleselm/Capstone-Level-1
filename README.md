@@ -16,10 +16,16 @@ For my level one capstone project I decided to create a personal portfolio that 
 - [x] Create GitHub Repostitory
 - [x] Create index.html, about.html, gallery.html, blog.html, and resources.html.
 - [] Create CSS files and .JS files to accompany html pages.
-- [] Upload wireframe photos to README.md.
-- []
+- [x] Upload wireframe photos to README.md.
+- [] 
 
 ## Wireframe
+
+![wireframe of index.html](/Capstone-Level-1/img/index.jpg)
+![wireframe of about.html](/Capstone-Level-1/img/about.jpg)
+![wireframe of gallery.html](/Capstone-Level-1/img/gallery.jpg)
+![wireframe of blog.html](/Capstone-Level-1/img/blog.jpg)
+![wireframe of resources.html](/Capstone-Level-1/img/resources.jpg)
 
 ## Contact
 
