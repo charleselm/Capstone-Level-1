@@ -13,8 +13,8 @@ For my level one capstone project I decided to create a personal portfolio that 
 
 ## Roadmap
 
-- [] Create GitHub Repostitory
-- [] Create index.html, about.html, gallery.html, blog.html, and resources.html.
+- [x] Create GitHub Repostitory
+- [x] Create index.html, about.html, gallery.html, blog.html, and resources.html.
 - [] Create CSS files and .JS files to accompany html pages.
 - [] Upload wireframe photos to README.md.
 - []
