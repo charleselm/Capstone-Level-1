@@ -82,3 +82,7 @@ footer {
     display: table;
     clear: both;
   }  
+  
+  .headline {
+    font-weight: bold;
+  }
