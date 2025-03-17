@@ -17,7 +17,6 @@ For my level one capstone project I decided to create a personal portfolio that 
 - [x] Create index.html, about.html, gallery.html, blog.html, and resources.html.
 - [x] Create CSS files and .JS files to accompany html pages.
 - [x] Upload wireframe photos to README.md.
-- []
 
 ## Wireframe
 
@@ -34,3 +33,8 @@ Charles Elmore - <charleselmore53@icloud.com>
 ## Acknowledgements
 
 * [Cloudinary Readme Inages](https://cloudinary.com/guides/web-performance/4-ways-to-add-images-to-github-readme-1-bonus-method)
+* [W3 Schools](https://www.w3schools.com/)
+* [Bootstrap Documentation](https://getbootstrap.com/docs/5.3/getting-started/introduction/)
+* [StackOverflow](https://stackoverflow.com/)
+* [Pexels](https://www.pexels.com/)
+* [MDN Web Docs](https://developer.mozilla.org/en-US/)
