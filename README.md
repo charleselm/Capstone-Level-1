@@ -17,7 +17,7 @@ For my level one capstone project I decided to create a personal portfolio that 
 - [x] Create index.html, about.html, gallery.html, blog.html, and resources.html.
 - [x] Create CSS files and .JS files to accompany html pages.
 - [x] Upload wireframe photos to README.md.
-- [] 
+- []
 
 ## Wireframe
 
@@ -29,7 +29,7 @@ For my level one capstone project I decided to create a personal portfolio that 
 
 ## Contact
 
-Charles Elmore - charleselmore53@icloud.com
+Charles Elmore - <charleselmore53@icloud.com>
 
 ## Acknowledgements
 

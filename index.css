@@ -1,3 +1,18 @@
 h1 {
-    font-weight: bold !important;
+  font-weight: bold !important;
+}
+
+body{
+    font-family: 'Arial';
+    margin: 0;
+    padding: 20px;
+    background: lightgray;
+}
+footer {
+  background-color: #333;
+  color: white;
+  text-align: center;
+  padding: 0.7rem;
+  text-align: center;
+  margin-top: 20px;
 }
